@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
 	This file is a node.js module.
 
@@ -5,6 +6,8 @@
 	Some algorithms may be icorrect because it's rather an UDF implementation sample
 	then a proper datafeed implementation.
 */
+
+require('dotenv').config()
 
 var http = require("http"),
 	https = require("https"),

@@ -1,0 +1,23 @@
+{
+  "name": "sanetraders_datafeed",
+  "version": "1.0.0",
+  "description": "UDF-compatible Yahoo datafeed ==============",
+  "main": "yahoo.js",
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanetraders/yahoo_datafeed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanetraders/yahoo_datafeed/issues"
+  },
+  "homepage": "https://github.com/sanetraders/yahoo_datafeed#readme"
+}
